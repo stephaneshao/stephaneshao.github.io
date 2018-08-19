@@ -1,5 +1,0 @@
-
->>> Format ideal pour les bannieres: 2000 x 700 pixels
-
->>>>>>> ATTENTION: la partie visible de l'image doit idealement faire 2000 x 580
->>>>>>>>>>>>>>>>>> i.e. essayer de laisser une marge de 120 pixels pour la BARRE DE NAVIGATION qui cache une partie du haut de l'image.
