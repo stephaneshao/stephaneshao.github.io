@@ -115,6 +115,8 @@ h4, h5, h6 {
 }
 
 a,
+a:visited,
+a:focus,
 h3.article-title a:hover {
   color: rgb(0,140,203);
   text-decoration: none;
@@ -1086,7 +1088,7 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-  color: #899596;
+  color: #899596
 }
 
 /*************************************************

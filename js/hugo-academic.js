@@ -184,7 +184,7 @@
       let zoom = parseInt($('#map-zoom').val());
       let address = $('#map-dir').val();
       let api_key = $('#map-api-key').val();
-      
+
       if ( map_provider == 1 ) {
         let map = new GMaps({
           div: '#map',
