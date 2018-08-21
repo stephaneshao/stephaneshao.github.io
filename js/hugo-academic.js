@@ -75,14 +75,14 @@
    * Smooth scrolling for Back To Top link.
    * --------------------------------------------------------------------------- */
 
-  $('#back_to_top').on('click', function(event) {
-    event.preventDefault();
-    $('html, body').animate({
-      'scrollTop': 0
-    }, 800, function() {
-      window.location.hash = "";
-    });
-  });
+  // $('#back_to_top').on('click', function(event) {
+  //   event.preventDefault();
+  //   $('html, body').animate({
+  //     'scrollTop': 0
+  //   }, 800, function() {
+  //     window.location.hash = "";
+  //   });
+  // });
 
   /* ---------------------------------------------------------------------------
    * Hide mobile collapsable menu on clicking a link.
