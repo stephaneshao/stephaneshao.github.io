@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://stephaneshao.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Bayesian model comparison with the Hyvärinen score: computation and consistency</title>
       <link>https://stephaneshao.github.io/publication/hyvarinen/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/hyvarinen/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Ridge rerandomization: an experimental design strategy in the presence of collinearity</title>
       <link>https://stephaneshao.github.io/publication/ridgererand/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/ridgererand/</guid>
       <description></description>
