@@ -1731,6 +1731,18 @@ body.dark {
    text-decoration: none;
    transition-duration: 0.18s
  }
+ /* ------------------------ This defines a custom style for URL -------------------*/
+ a.etsy, a.etsy:visited, a.etsy:focus, a.etsy:active{
+   color: rgb(241,100,30);
+   text-decoration: none;
+   background-color: transparent;
+ }
+ a.etsy:hover{
+   color: rgb(252,229,58);
+   background-color: transparent;
+   text-decoration: none;
+   transition-duration: 0.18s
+ }
 
  span.button_icon.custom:hover{
    color: rgb(252,229,58);

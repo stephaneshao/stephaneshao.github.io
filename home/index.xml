@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Stephane Shao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     
 	<atom:link href="https://stephaneshao.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stephaneshao.github.io/home/about/</guid>
-      <description>I am &amp;hellip; &amp;hellip; a fifth-year PhD student in Statistics at Harvard University.
-My thesis advisor is Pierre E. Jacob. My work relates to model comparison, asymptotics, and computational statistics. Contact me by e-mail via : stephaneshao [at] alumni [dot] harvard [dot] edu</description>
+      <description>I am &amp;hellip; &amp;hellip; a senior data scientist at Etsy in New York.
+I was advised by Pierre E. Jacob during my PhD in Statistics. My work relates to model comparison, asymptotics, and computational statistics. Contact me by e-mail via : stephaneshao [at] alumni [dot] harvard [dot] edu</description>
     </item>
     
     <item>
