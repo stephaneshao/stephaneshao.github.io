@@ -6,9 +6,27 @@
     <description>Recent content in Stephane Shao on Stephane Shao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Increasing experimentation accuracy and speed by using control variates</title>
+      <link>https://stephaneshao.github.io/publication/codeacraft_cuped/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://stephaneshao.github.io/publication/codeacraft_cuped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridge rerandomization: an experimental design strategy in the presence of covariate collinearity</title>
+      <link>https://stephaneshao.github.io/publication/ridgererand/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://stephaneshao.github.io/publication/ridgererand/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian model comparison and asymptotics for state-space models</title>
@@ -25,69 +43,6 @@
       <pubDate>Mon, 25 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/hyvarinen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar [STAT 300]</title>
-      <link>https://stephaneshao.github.io/talk/2018stat300/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/talk/2018stat300/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ISBA 2018</title>
-      <link>https://stephaneshao.github.io/talk/2018isba/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/talk/2018isba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ridge rerandomization: an experimental design strategy in the presence of covariate collinearity</title>
-      <link>https://stephaneshao.github.io/publication/ridgererand/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/publication/ridgererand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayes Comp 2018</title>
-      <link>https://stephaneshao.github.io/talk/2018bayescomp/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/talk/2018bayescomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar [STAT 300]</title>
-      <link>https://stephaneshao.github.io/talk/2017stat300/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://stephaneshao.github.io/talk/2017stat300/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greek Stochastics 2017</title>
-      <link>https://stephaneshao.github.io/talk/2017greekstochastics/</link>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/talk/2017greekstochastics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar [STAT 300]</title>
-      <link>https://stephaneshao.github.io/talk/2016stat300/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/talk/2016stat300/</guid>
       <description></description>
     </item>
     

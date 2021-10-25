@@ -6,8 +6,8 @@
     <description>Recent content in Publication_types on Stephane Shao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://stephaneshao.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>2</title>
       <link>https://stephaneshao.github.io/publication_types/2/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>https://stephaneshao.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://stephaneshao.github.io/publication_types/3/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://stephaneshao.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     

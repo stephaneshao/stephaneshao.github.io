@@ -6,11 +6,29 @@
     <description>Recent content in Publications on Stephane Shao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://stephaneshao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Increasing experimentation accuracy and speed by using control variates</title>
+      <link>https://stephaneshao.github.io/publication/codeacraft_cuped/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://stephaneshao.github.io/publication/codeacraft_cuped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridge rerandomization: an experimental design strategy in the presence of covariate collinearity</title>
+      <link>https://stephaneshao.github.io/publication/ridgererand/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://stephaneshao.github.io/publication/ridgererand/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian model comparison and asymptotics for state-space models</title>
@@ -27,15 +45,6 @@
       <pubDate>Mon, 25 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/hyvarinen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ridge rerandomization: an experimental design strategy in the presence of covariate collinearity</title>
-      <link>https://stephaneshao.github.io/publication/ridgererand/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://stephaneshao.github.io/publication/ridgererand/</guid>
       <description></description>
     </item>
     
