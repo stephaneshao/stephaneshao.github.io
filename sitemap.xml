@@ -1,77 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>https://stephaneshao.github.io/publication/codeascraft_imbalance/</loc>
-      <lastmod>2022-03-04T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephaneshao.github.io/publication/codeascraft_cuped/</loc>
-      <lastmod>2021-06-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephaneshao.github.io/publication/ridgererand/</loc>
-      <lastmod>2021-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephaneshao.github.io/publication/dissertation/</loc>
-      <lastmod>2019-05-31T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephaneshao.github.io/publication/hyvarinen/</loc>
-      <lastmod>2019-03-25T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephaneshao.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephaneshao.github.io/publication_types/2/</loc>
-      <lastmod>2021-01-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://stephaneshao.github.io/publication_types/3/</loc>
-      <lastmod>2022-03-04T00:00:00-05:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://stephaneshao.github.io/categories/</loc>
-      <priority>0</priority>
+      <loc>https://stephaneshao.github.io/publication/codeascraft_04_winners_curse/</loc>
+      <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -79,8 +20,7 @@
     <url>
     
       <loc>https://stephaneshao.github.io/publication_types/</loc>
-      <lastmod>2021-01-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -88,7 +28,86 @@
     <url>
     
       <loc>https://stephaneshao.github.io/publication/</loc>
-      <lastmod>2022-03-04T00:00:00-05:00</lastmod>
+      <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/</loc>
+      <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication/codeascraft_03_persistent_exps/</loc>
+      <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication/codeascraft_02_imbalance/</loc>
+      <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication/codeascraft_01_cuped/</loc>
+      <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication_types/2/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication/ridgererand/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication/dissertation/</loc>
+      <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/publication/hyvarinen/</loc>
+      <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephaneshao.github.io/categories/</loc>
     </url>
     
   
@@ -102,17 +121,7 @@
     
     <url>
     
-      <loc>https://stephaneshao.github.io/</loc>
-      <lastmod>2022-03-04T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://stephaneshao.github.io/tags/</loc>
-      <priority>0</priority>
     </url>
     
   

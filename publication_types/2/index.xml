@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Stephane Shao</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://stephaneshao.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stephaneshao.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ridge rerandomization: an experimental design strategy in the presence of covariate collinearity</title>
       <link>https://stephaneshao.github.io/publication/ridgererand/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/ridgererand/</guid>
       <description></description>
@@ -24,7 +20,7 @@
     <item>
       <title>Bayesian model comparison with the Hyvärinen score: computation and consistency</title>
       <link>https://stephaneshao.github.io/publication/hyvarinen/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/hyvarinen/</guid>
       <description></description>
