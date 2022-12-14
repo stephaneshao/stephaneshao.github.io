@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Stephane Shao</title>
@@ -7,11 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://stephaneshao.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://stephaneshao.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Mitigating the winner’s curse in online experiments</title>
       <link>https://stephaneshao.github.io/publication/codeascraft_04_winners_curse/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 -0500</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/codeascraft_04_winners_curse/</guid>
       <description></description>
@@ -20,7 +24,7 @@
     <item>
       <title>Understanding the collective impact of experiments</title>
       <link>https://stephaneshao.github.io/publication/codeascraft_03_persistent_exps/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 -0500</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/codeascraft_03_persistent_exps/</guid>
       <description></description>
@@ -29,7 +33,7 @@
     <item>
       <title>Imbalance detection for healthier experimentation</title>
       <link>https://stephaneshao.github.io/publication/codeascraft_02_imbalance/</link>
-      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 -0500</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/codeascraft_02_imbalance/</guid>
       <description></description>
@@ -38,7 +42,7 @@
     <item>
       <title>Increasing experimentation accuracy and speed by using control variates</title>
       <link>https://stephaneshao.github.io/publication/codeascraft_01_cuped/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/codeascraft_01_cuped/</guid>
       <description></description>
@@ -47,7 +51,7 @@
     <item>
       <title>Bayesian model comparison and asymptotics for state-space models</title>
       <link>https://stephaneshao.github.io/publication/dissertation/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://stephaneshao.github.io/publication/dissertation/</guid>
       <description></description>
